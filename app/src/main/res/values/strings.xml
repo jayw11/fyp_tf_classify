@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pets Classification</string>
+    <string name="search">Search</string>
+    <string name="search_result">SearchResult</string>
+    <string name="hint_search">please input the search content&#8230;</string>
+    <string name="snow">d\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\n</string>
+</resources>
